@@ -17,7 +17,8 @@ presentación y material adicional:
 
 <details>
   <summary> Parte 3: la sequía y los colores</summary>
-![](img/us_drought_replica_NYT.png)
+  <img src="img/us_drought_replica_NYT.png" alt="Reproducción visualización del NYT" class="inline"/>
+
 </details>
 
 ![](img/us_drought_replica_NYT.png)
