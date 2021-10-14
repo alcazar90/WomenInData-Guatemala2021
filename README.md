@@ -19,13 +19,13 @@ presentación y material adicional:
 ![](img/us_drought_replica_NYT.png)
 
 
-![](img/internet_adoption_heatmap2016.png)
+![](img/internet_adoption_heatmap_2016.png)
 
 
 ![](img/internet_adoption_heatmap_early.png)
 
 
-![](img/palmer_penguin_alternativa_boxplot.png)
+![](img/palmer_penguin_alternativa_boxplot-5.png)
 
 ## Recursos utilizados en la presentación:
 
