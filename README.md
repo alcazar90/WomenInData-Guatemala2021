@@ -16,21 +16,29 @@ presentación y material adicional:
 ## Visualizaciones
 
 <details>
+  <summary> Parte 1: visualizando cantidades</summary>
+  <img src="img/internet_adoption_heatmap_2016.png" alt="Reproducción visualización del NYT" class="inline"/>
+
+  <img src="img/internet_adoption_heatmap_early.png" alt="Reproducción visualización del NYT" class="inline"/>
+
+</details>
+
+
+
+<details>
+  <summary> Parte 2: creando una visualización por capas</summary>
+  <img src="img/palmer_penguin_alternative_boxplot-5.png" alt="Reproducción visualización del NYT" class="inline"/>
+
+</details>
+
+
+<details>
   <summary> Parte 3: la sequía y los colores</summary>
   <img src="img/us_drought_replica_NYT.png" alt="Reproducción visualización del NYT" class="inline"/>
 
 </details>
 
-![](img/us_drought_replica_NYT.png)
 
-
-![](img/internet_adoption_heatmap_2016.png)
-
-
-![](img/internet_adoption_heatmap_early.png)
-
-
-![](img/palmer_penguin_alternativa_boxplot-5.png)
 
 ## Recursos utilizados en la presentación:
 
