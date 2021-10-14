@@ -16,10 +16,10 @@ presentación y material adicional:
 ## Visualizaciones
 
 <details>
-  <summary> Parte 1: visualizando cantidades</summary>
-  <img src="img/internet_adoption_heatmap_2016.png" alt="Reproducción visualización del NYT" class="inline"/>
+  <summary> Parte 1: mapa de calor y cantidades en el tiempo</summary>
+  <img src="img/internet_adoption_heatmap_2016.png" alt="Reproducción visualización del capítulo 6 de Fundamentals of Data Visualization (Wilke 2019)" class="inline"/>
 
-  <img src="img/internet_adoption_heatmap_early.png" alt="Reproducción visualización del NYT" class="inline"/>
+  <img src="img/internet_adoption_heatmap_early.png" alt="Reproducción visualización del capítulo 6 de Fundamentals of Data Visualization (Wilke 2019)" class="inline"/>
 
 </details>
 
@@ -27,7 +27,7 @@ presentación y material adicional:
 
 <details>
   <summary> Parte 2: creando una visualización por capas</summary>
-  <img src="img/palmer_penguin_alternative_boxplot-5.png" alt="Reproducción visualización del NYT" class="inline"/>
+  <img src="img/palmer_penguin_alternativa_boxplot-5.png" alt="Visualización diseñada por capas" class="inline"/>
 
 </details>
 
