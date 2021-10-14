@@ -6,9 +6,16 @@
 
 Material de mi presentación en Women in Data: Guatemala Chapter realizada el 13/10 2021.
 
+Notebook en Google Colab con la implementación de las visualizacion de la 
+presentación y material adicional:
+
 <a href="https://colab.research.google.com/drive/1o43FTdcj_nKdSJkU_qFshutIYTCi1JwD?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+## Visualizaciones
+
+![](img/us_drought_replica_NYT.png)
 
 ## Recursos utilizados en la presentación:
 
