@@ -6,7 +6,7 @@
 
 Material de mi presentación en Women in Data: Guatemala Chapter realizada el 13/10 2021.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/drive/1o43FTdcj_nKdSJkU_qFshutIYTCi1JwD?usp=sharing")
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://alkzar.cl")
 
 
 ## Recursos utilizados en la presentación:
