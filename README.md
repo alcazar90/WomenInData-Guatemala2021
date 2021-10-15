@@ -17,7 +17,7 @@ Slides de la presentación [aquí](https://github.com/alcazar90/WomenInData-Guat
 ## Visualizaciones
 
 Haz clic para expandir y ver algunas de las principales visualizaciones expuestas
-en la presentación. El código para reproducirlas se encuentran en el notebook.
+en la presentación. El código para cada una de las visualizaciones se encuentra en el notebook.
 
 <details>
   <summary> Parte 1: mapa de calor y cantidades en el tiempo</summary>
