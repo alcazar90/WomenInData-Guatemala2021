@@ -4,7 +4,7 @@
 
 ----
 
-Material de mi presentación en Women in Data: Guatemala Chapter realizada el 13/10 2021.
+Material de mi presentación en Women in Data: Guatemala Chapter realizada el 13/10/2021.
 
 Notebook en Google Colab con la implementación en python 🐍 de las visualizaciones
 de la presentación y material adicional:
