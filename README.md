@@ -13,7 +13,12 @@ de la presentación y material adicional:
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-Slides de la presentación [aquí](https://github.com/alcazar90/WomenInData-Guatemala2021/blob/master/data-viz-women-in-data-guatemala%20chapter-13102021.pdf)
+Slides de la presentación [aquí](https://github.com/alcazar90/WomenInData-Guatemala2021/blob/master/data-viz-women-in-data-guatemala%20chapter-13102021.pdf).
+
+Acerca de la presentación:
+
+> El objetivo de la presentación fue exponer ideas y conceptos sobre la visualización de datos que las y los nuevos practicantes deben dominar en su transición a usuarios más avanzados. Conceptos como los de diseñar una visualización por capas, identificar el rol de las anotaciones como un elemento esencial para facilitar la lectura de la visualización a la audiencia, y la adopción de buenas prácticas para evitar errores comunes.
+
 ## Visualizaciones
 
 Haz clic para expandir y ver algunas de las principales visualizaciones expuestas
