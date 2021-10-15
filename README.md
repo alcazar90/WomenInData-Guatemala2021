@@ -16,6 +16,9 @@ de la presentación y material adicional:
 Slides de la presentación [aquí](https://github.com/alcazar90/WomenInData-Guatemala2021/blob/master/data-viz-women-in-data-guatemala%20chapter-13102021.pdf)
 ## Visualizaciones
 
+Haz clic para expandir y ver algunas de las principales visualizaciones expuestas
+en la presentación. El código para reproducirlas se encuentran en el notebook.
+
 <details>
   <summary> Parte 1: mapa de calor y cantidades en el tiempo</summary>
   <img src="img/internet_adoption_heatmap_2016.png" alt="Reproducción visualización del capítulo 6 de Fundamentals of Data Visualization (Wilke 2019)" class="inline"/>
