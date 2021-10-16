@@ -15,7 +15,7 @@ de la presentación y material adicional:
 
 Slides de la presentación [aquí](https://github.com/alcazar90/WomenInData-Guatemala2021/blob/master/data-viz-women-in-data-guatemala%20chapter-13102021.pdf).
 
-Comentarios o preguntas [aquí](https://github.com/alcazar90/WomenInData-Guatemala2021/issues/1)
+Comentarios o preguntas [aquí](https://github.com/alcazar90/WomenInData-Guatemala2021/issues/1).
 
 Acerca de la presentación:
 
