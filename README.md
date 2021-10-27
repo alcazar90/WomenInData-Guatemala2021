@@ -15,7 +15,7 @@ de la presentación y material adicional. Para verlo solo debes hacer clic en el
 
 Slides de la presentación [aquí](https://alkzar.cl/slides/womenInData-guatemalaChapter-13102021.pdf).
 
-Video de la presentación [aquí](https://m.facebook.com/events/561555721835584/).
+Video de la presentación [aquí](https://www.youtube.com/watch?v=MEb7BX9jAks).
 
 Comentarios o preguntas [aquí](https://github.com/alcazar90/WomenInData-Guatemala2021/issues/1).
 
