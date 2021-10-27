@@ -13,7 +13,7 @@ de la presentación y material adicional. Para verlo solo debes hacer clic en el
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-Slides de la presentación [aquí](https://github.com/alcazar90/WomenInData-Guatemala2021/blob/master/data-viz-women-in-data-guatemala%20chapter-13102021.pdf).
+Slides de la presentación [aquí](https://alkzar.cl/slides/womenInData-guatemalaChapter-13102021.pdf).
 
 Video de la presentación [aquí](https://m.facebook.com/events/561555721835584/).
 
