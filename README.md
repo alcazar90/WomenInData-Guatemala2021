@@ -22,7 +22,7 @@ Comentarios o preguntas [aquí](https://github.com/alcazar90/WomenInData-Guatema
 Acerca de la presentación:
 
 > El objetivo de la presentación es exponer ideas y conceptos sobre la Visualización de Datos a las y los nuevos practicantes para guiarlos a transicionar a usuarios más avanzados de python. Los participantes aprenderan a diseñar una
-visualización de datos por capas, identificar el rol de las anotaciones, 
+visualización de datos por capas, identificar el rol de las anotaciones 
 como un elemento esencial para facilitar la lectura y máximizar la 
 comunicación de la visualización, y la adopción de algunas de las buenas
 prácticas para evitar errores comunes. 
