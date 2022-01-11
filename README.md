@@ -21,12 +21,23 @@ Comentarios o preguntas [aquí](https://github.com/alcazar90/WomenInData-Guatema
 
 Acerca de la presentación:
 
-> El objetivo de la presentación fue exponer ideas y conceptos sobre la visualización de datos que las y los nuevos practicantes deben dominar en su transición a usuarios más avanzados. Conceptos como los de diseñar una visualización por capas, identificar el rol de las anotaciones como un elemento esencial para facilitar la lectura de la visualización a la audiencia, y la adopción de buenas prácticas para evitar errores comunes.
+> El objetivo de la presentación es exponer ideas y conceptos sobre la Visualización de Datos a las y los nuevos practicantes para guiarlos a transicionar a usuarios más avanzados de python. Los participantes aprenderan a diseñar una
+visualización de datos por capas, identificar el rol de las anotaciones, 
+como un elemento esencial para facilitar la lectura y máximizar la 
+comunicación de la visualización, y la adopción de algunas de las buenas
+prácticas para evitar errores comunes. 
+
+About this talk:
+
+> The talk aims to expose ideas and concepts about Data Visualization to newcomer practitioners to guide and help them transition into more advanced users using python. Attendees will learn to design a data visualization by layers, identify annotations' role for improving readability and maximizing its communication, and adopt some best practices to avoid typical errors.
+
 
 ## Visualizaciones
 
 Haz clic para expandir y ver algunas de las principales visualizaciones expuestas
 en la presentación. El código para cada una de las visualizaciones se encuentra en el notebook.
+
+Click in the below sections to see some of the main visualizations of the talk.
 
 <details>
   <summary> Parte 1: mapa de calor y cantidades en el tiempo</summary>
