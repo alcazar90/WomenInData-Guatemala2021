@@ -1,5 +1,5 @@
 <h1 align="center">
-  &nbsp;Women in Data: Guatemala Chapter<br> Visualización de datos con Python&nbsp;
+  &nbsp;Women in Data: Guatemala Chapter<br> Visualización de Datos con Python&nbsp;
 </h1>
 
 ----
