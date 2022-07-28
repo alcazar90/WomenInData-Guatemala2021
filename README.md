@@ -13,9 +13,14 @@ de la presentación y material adicional. Para verlo solo debes hacer clic en el
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-Slides de la presentación [aquí](https://alkzar.cl/slides/womenInData-guatemalaChapter-13102021.pdf).
+[Video](https://www.youtube.com/watch?v=MEb7BX9jAks) de la presentación.
 
-Video de la presentación [aquí](https://www.youtube.com/watch?v=MEb7BX9jAks).
+<p align="center">
+<a href="https://www.youtube.com/watch?v=MEb7BX9jAks" target="_blank"><img src="https://img.youtube.com/vi/MEb7BX9jAks/0.jpg" 
+alt="The GAT paper explained" width="480" height="360" border="10" /></a>
+</p>
+
+Slides de la presentación [aquí](https://alkzar.cl/slides/womenInData-guatemalaChapter-13102021.pdf).
 
 Comentarios o preguntas [aquí](https://github.com/alcazar90/WomenInData-Guatemala2021/issues/1).
 
