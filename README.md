@@ -6,7 +6,7 @@
 
 <a href="https://www.youtube.com/watch?v=MEb7BX9jAks" target="_blank">[Video]</a>
 <a href="https://alkzar.cl/slides/womenInData-guatemalaChapter-13102021.pdf" target="_blank">[Slides]</a>
-<a href="https://colab.research.google.com/drive/1tCN__7HxJ61WFUm14kr6ziloNaOH9Def?usp=sharing" target="_blank">[Code]</a>
+<a href="https://colab.research.google.com/drive/1o43FTdcj_nKdSJkU_qFshutIYTCi1JwD?usp=sharing" target="_blank">[Code]</a>
 
 
 Material de mi presentación en Women in Data: Guatemala Chapter realizada el 13/10/2021.
@@ -33,7 +33,7 @@ About this talk:
 
 ## Visualizaciones
 
-Principales visualizaciones expuestas en la presentación. Si quieres puedes ver el código para reproducir cada visualización en el <a href="https://colab.research.google.com/drive/1tCN__7HxJ61WFUm14kr6ziloNaOH9Def?usp=sharing" target="_blank">notebook</a>.
+Principales visualizaciones expuestas en la presentación. Si quieres puedes ver el código para reproducir cada visualización en el <a href="https://colab.research.google.com/drive/1o43FTdcj_nKdSJkU_qFshutIYTCi1JwD?usp=sharing" target="_blank">notebook</a>.
 
 Below some of the main visualizations of the talk.
 
