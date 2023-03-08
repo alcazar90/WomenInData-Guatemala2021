@@ -4,6 +4,11 @@
 
 ----
 
+<a href="https://www.youtube.com/watch?v=MEb7BX9jAks" target="_blank">[Video]</a>
+<a href="https://alkzar.cl/slides/womenInData-guatemalaChapter-13102021.pdf" target="_blank">[Slides]</a>
+<a href="https://colab.research.google.com/drive/1tCN__7HxJ61WFUm14kr6ziloNaOH9Def?usp=sharing" target="_blank">[Code]</a>
+
+
 Material de mi presentación en Women in Data: Guatemala Chapter realizada el 13/10/2021.
 
 Notebook en Google Colab con la implementación en python 🐍 de las visualizaciones
@@ -12,17 +17,6 @@ de la presentación y material adicional. Para verlo solo debes hacer clic en el
 <a href="https://colab.research.google.com/drive/1o43FTdcj_nKdSJkU_qFshutIYTCi1JwD?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-
-[Video](https://www.youtube.com/watch?v=MEb7BX9jAks) de la presentación.
-
-<p align="center">
-<a href="https://www.youtube.com/watch?v=MEb7BX9jAks" target="_blank"><img src="https://img.youtube.com/vi/MEb7BX9jAks/0.jpg" 
-alt="The GAT paper explained" width="480" height="360" border="10" /></a>
-</p>
-
-Slides de la presentación [aquí](https://alkzar.cl/slides/womenInData-guatemalaChapter-13102021.pdf).
-
-Comentarios o preguntas [aquí](https://github.com/alcazar90/WomenInData-Guatemala2021/issues/1).
 
 Acerca de la presentación:
 
@@ -39,34 +33,27 @@ About this talk:
 
 ## Visualizaciones
 
-Haz clic para expandir y ver algunas de las principales visualizaciones expuestas
-en la presentación. El código para cada una de las visualizaciones se encuentra en el notebook.
+Principales visualizaciones expuestas en la presentación. Si quieres puedes ver el código para reproducir cada visualización en el <a href="https://colab.research.google.com/drive/1tCN__7HxJ61WFUm14kr6ziloNaOH9Def?usp=sharing" target="_blank">notebook</a>.
 
-Click in the below sections to see some of the main visualizations of the talk.
+Below some of the main visualizations of the talk.
 
-<details>
-  <summary> Parte 1: mapa de calor y cantidades en el tiempo</summary>
-  <img src="img/internet_adoption_heatmap_2016.png" alt="Reproducción visualización del capítulo 6 de Fundamentals of Data Visualization (Wilke 2019)" class="inline"/>
+### Parte 1: mapa de calor y cantidades en el tiempo
 
-  <img src="img/internet_adoption_heatmap_early.png" alt="Reproducción visualización del capítulo 6 de Fundamentals of Data Visualization (Wilke 2019)" class="inline"/>
+Reproducción en python de las visualizaciones del capítulo 6 de Fundamentals of Data Visualization (Wilke 2019).
 
-</details>
+<img src="img/internet_adoption_heatmap_2016.png" alt="Reproducción visualización del capítulo 6 de Fundamentals of Data Visualization (Wilke 2019)" class="inline"/>
 
+<img src="img/internet_adoption_heatmap_early.png" alt="Reproducción visualización del capítulo 6 de Fundamentals of Data Visualization (Wilke 2019)" class="inline"/>
 
+### Parte 2: creando una visualización por capas
 
-<details>
-  <summary> Parte 2: creando una visualización por capas</summary>
-  <img src="img/palmer_penguin_alternativa_boxplot-5.png" alt="Visualización diseñada por capas" class="inline"/>
+<img src="img/palmer_penguin_alternativa_boxplot-5.png" alt="Visualización diseñada por capas" class="inline"/>
 
-</details>
+### Parte 3: la sequía y los colores
 
+Reproducción de la visualización públicada en <a href="https://www.nytimes.com/interactive/2021/06/11/climate/california-western-drought-map.html" target="_blank">"How Severe Is the Western Drought? See For Yourself" (The New York Times)</a>.
 
-<details>
-  <summary> Parte 3: la sequía y los colores</summary>
-  <img src="img/us_drought_replica_NYT.png" alt="Reproducción visualización del NYT" class="inline"/>
-
-</details>
-
+<img src="img/us_drought_replica_NYT.png" alt="Reproducción visualización del NYT" class="inline"/>
 
 
 ## Recursos utilizados en la presentación:
